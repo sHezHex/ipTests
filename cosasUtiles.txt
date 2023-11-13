@@ -1,0 +1,8 @@
+https://www.technospot.net/blogs/send-message-to-an-ip-address/
+
+MSG {username | sessionname | sessionid | @filename | *}
+/SERVER:servername /TIME:seconds /V /W [message]
+
+https://stackoverflow.com/questions/2953462/pinging-servers-in-python
+
+https://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib
